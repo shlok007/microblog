@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is a micro-blogging app.
 
-Things you may want to cover:
+ * People can follow each other after creating an account.
+ * Users can tweet.
+ * They can view other's tweet on their home page.
 
-* Ruby version
+ Gems used for this app is present in Gemfile
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ It contains model for sign up
+ Test were written to check the code for valid syntax and proper working
+ Rubocop is used to correct the violations
